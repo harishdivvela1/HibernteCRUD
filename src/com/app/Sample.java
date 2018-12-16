@@ -7,7 +7,7 @@ public class Sample {
 		
 Employee emp = new Employee("harish","harish@gmail.com","kmm","868851");		
 	
-DBTransactions.insertData(emp);
+//DBTransactions.insertData(emp);
 //DBTransactions.GetRecord(1);
 DBTransactions.GetData();
 	
@@ -17,7 +17,7 @@ DBTransactions.GetData();
 
 		
 		
-//DBTransactions.deleteData(9);		
+DBTransactions.deleteData(11);		
 		
 	}
 }
