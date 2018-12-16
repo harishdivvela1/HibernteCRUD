@@ -5,10 +5,10 @@ public class Sample {
 	public static void main(String[] args)
 	{
 		
-Employee emp = new Employee("harish","harish@gmail.com","kmm","868851");		
+//Employee emp = new Employee("harish","harish@gmail.com","kmm","868851");		
 	
 //DBTransactions.insertData(emp);
-DBTransactions.GetRecord(1);
+//DBTransactions.GetRecord(1);
 //DBTransactions.GetData();
 	
 
